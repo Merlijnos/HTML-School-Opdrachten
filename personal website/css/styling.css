@@ -1,0 +1,38 @@
+body{
+    background-color: #85C7DE;
+  }
+h1{
+    color: #11708a;
+    background-color: #A0C4E2;
+    text-align: center;
+    font: small-caps bold 24px/1 sans-serif;
+}
+h2{
+    color: #ffffff;
+    text-shadow: 3px 2px #000000;
+    font-weight: bolder;
+    font: italic small-caps bold 16px/2 cursive;
+}
+h3{
+    color: #105264;
+    font: italic small-caps bold 16px/2 cursive;
+}
+div {
+  background-color: #c7d8e6;
+    padding-top: auto;
+  padding-right: 300px;
+  padding-bottom: auto;
+  padding-left: 300px;
+}
+div {
+  width: 300px;
+  margin: auto;
+  border: 2px solid #3785b6;
+}
+a:hover{
+  color: rgb(0, 238, 255);
+}
+img {
+  width: 100%;
+  height: auto;
+}
