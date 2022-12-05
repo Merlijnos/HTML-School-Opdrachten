@@ -1,0 +1,26 @@
+body {
+    background-color: coral;
+    color: coral;
+  }
+  
+ 
+  @media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+      color: blue;
+    }
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    body {
+      background-color: green;
+      color: green;
+    }
+  }
+  @media screen and (max-width: 576px) {
+    body {
+      background-color: red;
+      color: red;
+    }
+  }
