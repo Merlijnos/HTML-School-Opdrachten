@@ -1,0 +1,27 @@
+h1{
+    color: #FB8500;
+}
+body{
+    margin: 40px;
+    background-color: #023047;
+    padding: 40px;
+    border: 40px solid #FB8500;
+}
+
+.first{
+    background-color: #8ECAE6;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.second{
+    background-color: #8ECAE6;
+    text-transform: inherit;
+}
+
+div.first>h2{
+    color:#FB8500;
+}
+
+div.second>h2{
+    color: #ff0000;
+}
